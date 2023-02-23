@@ -12,5 +12,5 @@
 
 ## Screenshots
 
-<img src="app/docs/Screenshot_1633789736.png" width="200"> <img src="app/docs/Screenshot_1633789739.png" width="200"> <img src="app/docs/Screenshot_1633789742.png" width="200">
+<img src="app/docs/Screenshot_1633789739.png" width="200"> <img src="app/docs/Screenshot_1633789742.png" width="200">
 <img src="app/docs/Screenshot_1633789745.png" width="200">
